@@ -1,11 +1,11 @@
-'' Parte 2: Polimorfismo com Métodos
+''' Parte 2: Polimorfismo com Métodos
 6. Crie uma classe chamada Leão com um método falar() que imprime "Rugido!".
 7. Crie outra classe chamada Lobo com o método falar() que imprime "Uivo!".
 8. Crie objetos para ambas as classes e chame o método falar() de cada um.
 9. O que acontece quando dois objetos diferentes possuem métodos com o mesmo nome?
 10. Implemente uma classe Arara com o método falar() que imprime "Bom dia!" e repita o
 processo.'''
-
+# 9 
 class Leão:
  def falar(self):
  print("Rugido!")
