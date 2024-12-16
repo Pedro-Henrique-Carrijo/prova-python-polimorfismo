@@ -5,7 +5,7 @@
 9. O que acontece quando dois objetos diferentes possuem métodos com o mesmo nome?
 10. Implemente uma classe Arara com o método falar() que imprime "Bom dia!" e repita o
 processo.'''
-# 9 
+# 9 cada método vai ser executado de acordo com a implementação de sua classe.
 class Leão:
  def falar(self):
  print("Rugido!")
